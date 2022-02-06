@@ -15,3 +15,8 @@
 ## Dictionaries & Nesting
 
 ## OOP
+
+## Extra
+### Numpy
+### Pandas
+### Matplotlib
