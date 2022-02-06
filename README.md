@@ -1,5 +1,6 @@
 ## Course Content
 
+* Python Environment
 * Working with Variables
 * Working with Data Types
 * Flow control and Logical Operators
